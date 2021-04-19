@@ -1,0 +1,78 @@
+.floor form input[type="text"],
+.floor form textarea {
+  width: 75%;
+  border: 1px solid #e0dede;
+  overflow: visible;
+
+  border-radius: 5px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.floor form input[type="text"] {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+::-webkit-input-placeholder {
+  font-size: 12px;
+}
+::-moz-placeholder {
+  font-size: 12px;
+}
+:-ms-input-placeholder {
+  font-size: 12px;
+}
+
+.gender {
+  margin-top: 30px;
+}
+.gender span,
+.case span {
+  font-weight: bold;
+  margin-left: 35px;
+}
+.gender label,
+.case label {
+  font-weight: bold;
+  font-size: 14px;
+}
+input[type="radio"],
+input[type="radio"] {
+  margin-right: 20px;
+  margin-left: 5px;
+}
+
+form button {
+  background-color: #000;
+  color: #ffcc3c;
+  border: none;
+  padding-right: 10px;
+  font-size: 12px;
+  padding: 3px 15px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+.floor form select {
+  border-radius: 5px;
+  padding-right: 3px;
+  padding-left: 70px;
+  background-color: #f1efef;
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 19px;
+  margin-bottom: 10px;
+}
+
+.floor form button {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.floor form .editDoor {
+  float: left;
+}
+
+.floor thead {
+  border: none;
+  background-color: darkgray;
+}

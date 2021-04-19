@@ -1,0 +1,14 @@
+.bg-black {
+  background-color: #000;
+}
+
+.nav {
+  background-color: #000 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  padding-left: 15px;
+  padding-right: 15px;
+}
